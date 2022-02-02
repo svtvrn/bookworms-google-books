@@ -1,0 +1,33 @@
+{
+  "name": "bookworms-re",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "axios": "^0.24.0",
+    "formik": "^2.2.9",
+    "i18n": "^0.13.3",
+    "next": "12.0.2",
+    "next-images": "^1.8.2",
+    "postcss": "^8.3.11",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-query": "^3.31.0",
+    "sass": "^1.43.4",
+    "tailwindcss": "^2.2.19",
+    "typewriter-effect": "^2.18.2",
+    "zustand": "^3.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "16.11.6",
+    "@types/react": "17.0.34",
+    "eslint": "7",
+    "eslint-config-next": "12.0.2",
+    "typescript": "4.4.4"
+  }
+}

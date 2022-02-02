@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1734.002" height="393" viewBox="0 0 1734.002 393">
+  <defs>
+    <filter id="Rectangle_1" x="1521.002" y="33" width="213" height="286" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.659"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="1509.002" y="40" width="215" height="287" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.659"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Bookworms_" x="0" y="0" width="1507" height="393" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#290c63" flood-opacity="0.659"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Bookworms_Logo" transform="translate(9 6)">
+    <g id="Group_1" data-name="Group 1" transform="translate(1509.152 33)">
+      <g transform="matrix(1, 0, 0, 1, -1518.15, -39)" filter="url(#Rectangle_1)">
+        <rect id="Rectangle_1-2" data-name="Rectangle 1" width="195" height="268" rx="5" transform="translate(1530 39)" fill="#290c63"/>
+      </g>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="192" height="268" rx="5" transform="translate(7.848 4)" fill="#fff"/>
+      <g transform="matrix(1, 0, 0, 1, -1518.15, -39)" filter="url(#Rectangle_3)">
+        <g id="Rectangle_3-2" data-name="Rectangle 3" transform="translate(1518 46)" fill="#821385" stroke="#290c63" stroke-width="2">
+          <rect width="197" height="269" rx="5" stroke="none"/>
+          <rect x="1" y="1" width="195" height="267" rx="4" fill="none"/>
+        </g>
+      </g>
+      <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(40.848 53)" fill="#fff" stroke="#290c63" stroke-width="1">
+        <rect width="114" height="52" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="113" height="51" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Bookworms_)">
+      <text id="Bookworms_2" data-name="Bookworms!" transform="translate(9 310)" fill="#fbfbfb" font-size="282" font-family="NirmalaUI-Bold, Nirmala UI" font-weight="700" letter-spacing="-0.07em"><tspan x="0" y="0">Bookworms!</tspan></text>
+    </g>
+  </g>
+</svg>
